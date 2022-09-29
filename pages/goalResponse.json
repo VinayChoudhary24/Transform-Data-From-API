@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "product_details": {
+            "category": "electronics - tablet",
+            "name": "ipad"
+        },
+        "price_data": {
+            "price": 1120,
+            "salesPrice": 500
+        }
+    },
+    
+    {
+        "id": 2,
+        "product_details": {
+            "category": "electronics - console",
+            "name": "ps"
+        },
+        "price_data": {
+            "price": 1220,
+            "salesPrice": 600
+        }
+    },
+    
+    {
+        "id": 3,
+        "product_details": {
+            "category": "electronics - console",
+            "name": "xbox"
+        },
+        "price_data": {
+            "price": 2220,
+            "salesPrice": 1000
+        }
+    }    
+]

@@ -1,5 +1,34 @@
 [
     {
-        
-    }
+        "id": 1,
+        "title": "ipad",
+        "price": 1120,
+        "category": {
+            "highLevel": "electronics",
+            "lowLevel": "tablet"
+        },
+        "salePrice": 500
+    },
+    
+    {
+        "id": 2,
+        "title": "ps",
+        "price": 1220,
+        "category": {
+            "highLevel": "electronics",
+            "lowLevel": "console"
+        },
+        "salePrice": 600
+    },
+    
+    {
+        "id": 3,
+        "title": "xbox",
+        "price": 2220,
+        "category": {
+            "highLevel": "electronics",
+            "lowLevel": "console"
+        },
+        "salePrice": 1000
+    }    
 ]
